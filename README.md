@@ -1,2 +1,2 @@
 # Arduino/ESP8266Alexa
- Verbinde alexa mit ESP8266
+Verbinde alexa mit ESP8266

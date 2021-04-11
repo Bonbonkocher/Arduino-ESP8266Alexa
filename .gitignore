@@ -1,3 +1,7 @@
+#git
+.gitattributes
+.gitignore
+
 # Prerequisites
 *.d
 
